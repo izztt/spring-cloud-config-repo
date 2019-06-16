@@ -1,6 +1,6 @@
 #开发环境配置文件
 env:
-  dev-62
+  dev-60
 
 server:
   port: 8080
