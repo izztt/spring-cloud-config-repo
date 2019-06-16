@@ -37,16 +37,6 @@ spring:
 #mybatis配置
 mybatis:
   mapper-locations: classpath:mappers/*.xml
-#eureka client 配置
-eureka:
-  client:
-    service-url:
-      defaultZone: http://127.0.0.1:8761/eureka
-  instance:
-    # 使用ip注册到eureka
-    prefer-ip-address: true
-    # 自定义实例编号
-    #instance-id: '${spring.application.name}:${spring.cloud.client.ip-address}:${server.port}:@project.version@'
-    instance-id: '${spring.cloud.client.ip-address}:${server.port}'
+
 
 
