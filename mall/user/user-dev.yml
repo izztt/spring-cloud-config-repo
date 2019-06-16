@@ -41,6 +41,6 @@ mybatis:
 #配置
 version:
   name: 1.0
-  note: 正式版
+  note: 正式版-1
 
 
