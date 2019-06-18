@@ -5,9 +5,6 @@ env:
 server:
   port: 8080
 spring:
-  #应用名称
-  application:
-    name: userService
   #数据库配置
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
