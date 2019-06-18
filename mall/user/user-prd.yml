@@ -49,6 +49,6 @@ mybatis:
 #配置
 version:
   name: 1.0
-  note: 生产环境
+  note: 生产环境.
 
 
