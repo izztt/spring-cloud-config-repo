@@ -4,9 +4,6 @@ env:
 server:
   port: 8080
 spring:
-  application:
-    # application.name + profile =配置文件名称 -> user-dev.yml  应用名称不建议使用 name-service这种形式，因为配置文件是 {applicationName}-{env}.yml格式
-    name: user  
   #数据库配置
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
