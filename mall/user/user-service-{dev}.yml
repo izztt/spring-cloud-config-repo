@@ -1,6 +1,6 @@
 #开发环境配置文件
 env:
-  dev-60
+  dev
 
 server:
   port: 8080
@@ -38,6 +38,6 @@ mybatis:
 #配置
 version:
   name: 1.0
-  note: 测试版
+  note: 开发环境
 
 
