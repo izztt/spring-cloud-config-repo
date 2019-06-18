@@ -30,17 +30,6 @@ spring:
       test-while-idle: true
       #检查连接有效性的SQL语句
       validation-query: SELECT 1 FROM dual
-  rabbitmq:
-    #rabbitmq 服务器ip
-    host: 192.168.0.190
-    #端口
-    port: 5672
-    #项目专用vhost
-    virtual-host: mall
-    #用户名
-    username: mall
-    #密码
-    password: 123
     
 #mybatis配置
 mybatis:
