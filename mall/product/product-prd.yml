@@ -2,7 +2,9 @@
 env:
   prd
 server:
-  port: 8080
+  port: 9050
+  servlet:
+    context-path: /mall
 spring:
   #数据库配置
   datasource:
