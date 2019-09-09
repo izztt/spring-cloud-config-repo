@@ -2,7 +2,7 @@
 env:
   dev
 server:
-  port: 9050
+  port: 6030
   servlet:
     context-path: /mall
 spring:
