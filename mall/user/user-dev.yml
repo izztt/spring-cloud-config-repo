@@ -46,6 +46,7 @@ logging:
 #配置
 version:
   name: 1.0
-  note: 开发环境
+  note: 开发环境-测试
+  
 
 
