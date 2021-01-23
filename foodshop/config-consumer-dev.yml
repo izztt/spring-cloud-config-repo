@@ -2,5 +2,5 @@ info:
   profile: dev
   
 name: Tom and Jack
-desc: This is dev enviroment1
+desc: This is dev enviroment
 encryptDemo: '{cipher}616a547cb90d91b5d249a8c613948cbc9f13f8b75679a93cbac04b149a0343ad'
