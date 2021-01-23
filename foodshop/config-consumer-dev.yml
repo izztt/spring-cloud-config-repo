@@ -3,4 +3,4 @@ info:
   
 name: Tom and Jack
 desc: This is dev enviroment
-encrypt: '{cipher}616a547cb90d91b5d249a8c613948cbc9f13f8b75679a93cbac04b149a0343ad'
+encryptDemo: '{cipher}616a547cb90d91b5d249a8c613948cbc9f13f8b75679a93cbac04b149a0343ad'
